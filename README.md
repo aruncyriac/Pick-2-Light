@@ -26,8 +26,3 @@ This project implements an embedded Pick to Light system using the PIC18F4580 mi
 3. Use the MODE key to switch between modes.
 4. Utilize INC and ACK keys for stock updates and Node ID configuration.
 
-## License
-This project is open-source and available for modification and use under an appropriate license.
-
-## Contact
-For any queries or contributions, feel free to reach out!
